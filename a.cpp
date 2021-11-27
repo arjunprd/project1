@@ -7,5 +7,6 @@ int main()
     cin>>a>>s;
     cout<<a<<endl;
     cout<<s;
+    cout<<"\nBye!!";
     return 0;
 }
